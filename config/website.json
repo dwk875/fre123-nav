@@ -1,14 +1,14 @@
 {
 	"base": {
-		"app_name": "FRE123",
-		"web_host": "https://www.fre123.com",
-		"logo": "https://img.fre123.com/i/2023/11/25/65619e8022505.png"
+		"app_name": "DWK",
+		"web_host": "https://nav.dwkxiaochen.top",
+		"logo": "https://jsd.cdn.zzko.cn/gh/cnxg5/PicGO@main/img/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20231115112649-min.png"
 	},
 	"seo": {
-		"title": "FRE123 免费资源共享平台",
-		"description": "FRE123 专注于为您提供各种免费优质资源，包括影视资源、动漫番剧、软件工具等。无论您在寻找哪种资源，我们都将尽力为您提供，为您的学习或工作助力",
-		"keywords": "FRE123, 免费资源, 优质资源, 资源聚合, 在线资源, 影视资源, 动漫番剧, 软件工具, 网盘资源",
-		"icon": "https://img.fre123.com/i/2023/11/25/65619e791f166.ico"
+		"title": "DWK 免费资源共享平台",
+		"description": "DWK 专注于为您提供各种免费优质资源，包括影视资源、动漫番剧、软件工具等。无论您在寻找哪种资源，我们都将尽力为您提供，为您的学习或工作助力",
+		"keywords": "DWK, 免费资源, 优质资源, 资源聚合, 在线资源, 影视资源, 动漫番剧, 软件工具, 网盘资源",
+		"icon": "https://jsd.cdn.zzko.cn/gh/cnxg5/PicGO@main/img/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20231115112649-min.png"
 	},
 	"header": {
 		"search": {
@@ -57,7 +57,7 @@
 		}
 	},
 	"pendant": {
-		"is_show": true,
+		"is_show": false,
 		"list": [
 			{
 				"icon_class": "fab fa-weixin",
@@ -95,22 +95,7 @@
 				{
 					"icon_class": "fas fa-comment-dots",
 					"icon_size": 20,
-					"url": "https://github.com/fre123-com"
-				},
-				{
-					"icon_class": "fab fa-telegram-plane",
-					"icon_size": 20,
-					"url": "https://t.me/howie_weekly"
-				},
-				{
-					"icon_class": "fas fa-blog",
-					"icon_size": 20,
-					"url": "https://www.fre123.com/weekly"
-				},
-				{
-					"icon_class": "fas fa-qrcode",
-					"icon_size": 20,
-					"url": "https://cdn.jsdelivr.net/gh/howie6879/weekly/src/statics/wechat.jpeg"
+					"url": "https://github.com/dwk875"
 				}
 			]
 		}
